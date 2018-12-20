@@ -1,2 +1,2 @@
 # Word-Counter
-Java word counter.
+A java word counter.
